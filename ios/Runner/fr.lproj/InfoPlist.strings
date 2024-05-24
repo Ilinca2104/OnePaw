@@ -1,0 +1,4 @@
+NSCameraUsageDescription = "Permiteți accesul la Camera Photo?";
+NSPhotoLibraryUsageDescription = "Permiteți accéder à la Galerie?";
+PermissionGroupNotification = "Permettre la première notification ?";
+NSContactsUsageDescription = "Permiteți accesul les Contactele dvs.?";

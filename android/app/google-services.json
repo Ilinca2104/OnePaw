@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "938990744068",
+    "project_id": "one-paw-n3dwpw",
+    "storage_bucket": "one-paw-n3dwpw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938990744068:android:15af47719ffd1fe8ddbb51",
+        "android_client_info": {
+          "package_name": "com.mycompany.onepaw"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMyozaG28xYCDmofLH3N-oTYG8b6NkfDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

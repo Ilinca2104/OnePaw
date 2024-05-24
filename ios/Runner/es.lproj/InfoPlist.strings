@@ -1,0 +1,4 @@
+NSCameraUsageDescription = "¿Permite acceder a la cámara de fotos?";
+NSPhotoLibraryUsageDescription = "¿Permite acceder a la galería?";
+PermissionGroupNotification = "¿Permitirá primirea notificărilor?";
+NSContactsUsageDescription = "¿Permitirá acceder a los contactos dvs.?";

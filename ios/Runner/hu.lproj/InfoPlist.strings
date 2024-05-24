@@ -1,0 +1,4 @@
+NSCameraUsageDescription = "Engedélyezi a Camera Photo hozzáférést?";
+NSPhotoLibraryUsageDescription = "Engedélyezi a Galerie hozzáférését?";
+PermissionGroupNotification = "Permiteți primirea notificărilor?";
+NSContactsUsageDescription = "Engedélyezi a Contactele dvs hozzáférést?";

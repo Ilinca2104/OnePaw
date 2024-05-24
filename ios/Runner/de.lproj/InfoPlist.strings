@@ -1,0 +1,4 @@
+NSCameraUsageDescription = "Erlauben Sie den Zugriff auf die Fotokamera?";
+NSPhotoLibraryUsageDescription = "Dürfen Sie die Galerie betreten?";
+PermissionGroupNotification = "Ist die Erstbenachrichtigung zulässig?";
+NSContactsUsageDescription = "Erlauben Sie den Zugriff auf den DVS-Kontakt?";
